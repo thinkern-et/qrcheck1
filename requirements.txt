@@ -1,2 +1,5 @@
-opencv-python
-opencv-contrib-python
+streamlit
+opencv-python-headless
+pyzbar
+numpy
+Pillow
